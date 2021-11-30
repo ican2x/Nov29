@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+scipy
+statsmodels
+import-ipynb
+thinkx
+ipython
+nbformat
